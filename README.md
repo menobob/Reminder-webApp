@@ -1,4 +1,7 @@
-# REMINDER-APP
+# REMINDER-WEBAPP
+
+![](sneak-peak.gif)
+
 ## DESCRIPTION
 A simple web application that allows users to create a list of daily reminders.
 
@@ -7,6 +10,3 @@ A simple web application that allows users to create a list of daily reminders.
 - HTML/CSS 
 - Java Script
 - jQuery
-## SNEAK PEAK
-
-![](sneak-peak.gif)
